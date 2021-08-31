@@ -24,6 +24,6 @@ streamlit run app.py
 
 
 ## Developers
-- Kaushik Jeyaraman - kaushikjjj@gmail.com
+- Kaushik Jeyaraman
 - Neeraja Neelakantan
 - Hridya Divakaran
